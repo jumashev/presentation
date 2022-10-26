@@ -1,0 +1,129 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-decoration: none;
+  background: rgba(63, 20, 20, 0.92);
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+#cowboys .cowboys--text h1 {
+  font-weight: 700;
+  font-size: 45px;
+  text-align: center;
+  color: rgba(224, 163, 163, 0.99);
+}
+#cowboys .cowboys--text h1 span {
+  color: rgba(110, 173, 15, 0.93);
+}
+#cowboys .cowboys--text p {
+  padding: 50px 0;
+  font-weight: 400;
+  font-size: 40px;
+  color: aliceblue;
+}
+#cowboys .cowboys--text img {
+  width: 800px;
+  padding: 40px 300px;
+}
+#cowboys .cowboys--nav p {
+  font-weight: 700;
+  font-size: 60px;
+  color: mediumpurple;
+  line-height: 70px;
+  padding: 40px 0;
+}
+#cowboys .cowboys--para p {
+  font-weight: 700;
+  font-size: 60px;
+  color: rgba(223, 71, 231, 0.93);
+  line-height: 70px;
+  padding: 40px 0;
+}
+#cowboys .cowboys--para img {
+  padding: 30px 400px;
+}
+#cowboys .cowboys--logo h2 {
+  font-weight: 700;
+  font-size: 100px;
+  color: orange;
+  text-align: center;
+}
+#cowboys .cowboys--logo p {
+  font-weight: 700;
+  font-size: 43px;
+  color: rgba(223, 71, 231, 0.93);
+  line-height: 70px;
+  padding: 40px 0;
+}
+#cowboys .cowboys--img img {
+  display: flex;
+  width: 600px;
+  padding: 30px 50px;
+}
+#cowboys .cowboys--one p {
+  font-weight: 400;
+  font-size: 50px;
+  color: orange;
+  padding: 40px 0;
+}
+#cowboys .cowboys--one img {
+  width: 800px;
+  padding: 40px 300px;
+}
+#cowboys .cowboys--two h3 {
+  font-weight: 700;
+  font-size: 50px;
+  color: purple;
+  text-align: center;
+  padding: 40px 0;
+}
+#cowboys .cowboys--two p {
+  font-weight: 400;
+  font-size: 40px;
+  color: aquamarine;
+}
+#cowboys .cowboys--group {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 60px;
+}
+#cowboys .cowboys--group--four img {
+  width: 500px;
+  padding: 20px 40px;
+}
+#cowboys .cowboys--group--three img {
+  padding: 30px 50px;
+}
+#cowboys .cowboys--bon h5 {
+  font-weight: 700;
+  font-size: 100px;
+  color: rgba(187, 120, 76, 0.94);
+  text-align: center;
+  padding: 100px 0;
+  text-shadow: 0 0 20px #9b2086;
+}
+#cowboys .cowboys--bon p {
+  font-weight: 700;
+  font-size: 50px;
+  text-align: center;
+  padding: 5% 0;
+  color: rgba(189, 62, 62, 0.94);
+  text-shadow: 0 0 50px rgb(0, 0, 0);
+}
+#cowboys .cowboys--bon p span {
+  font-weight: 700;
+  font-size: 50px;
+  color: rgba(0, 0, 0, 0.94);
+  text-shadow: 0 0 50px rgba(38, 80, 161, 0.96);
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */
